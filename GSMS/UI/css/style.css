@@ -1,0 +1,10 @@
+.nav-link i {
+      font-size: 22px; /* icon size */
+      margin-right: 6px; /* space between icon and text */
+    }
+ 
+.new-order {
+  padding-top: 5px;
+  padding-bottom: 0 auto;
+}
+

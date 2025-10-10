@@ -1,0 +1,1 @@
+This project is a full-stack web application developed using Flask (Python) and MySQL for managing grocery store operations like inventory, billing, and customer data. It provides RESTful APIs, a responsive front-end, and AJAX-powered search for real-time interaction.
